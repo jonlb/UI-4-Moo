@@ -1,4 +1,4 @@
-jx4
+UI-4-Moo
 ===
 
-A testing ground for the next version of JxLib - built on Moo2, Less, Handlebars, has and others
+A UI library built on Moo2 (and possibly Less, Handlebars, has and others)
