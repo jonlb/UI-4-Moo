@@ -1,0 +1,16 @@
+
+[submodule "deps/moofx"]
+	path = deps/moofx
+	url = git://github.com/kamicane/moofx.git
+[submodule "deps/agent"]
+	path = deps/agent
+	url = git://github.com/kamicane/agent.git
+[submodule "deps/elements"]
+	path = deps/elements
+	url = git://github.com/mootools/elements.git
+[submodule "deps/prime"]
+	path = deps/prime
+	url = git://github.com/mootools/prime.git
+[submodule "deps/slick"]
+	path = deps/slick
+	url = git://github.com/mootools/slick.git
